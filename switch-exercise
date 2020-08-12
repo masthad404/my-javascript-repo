@@ -1,0 +1,23 @@
+var allat = "cica"
+
+switch (allat) {
+
+  case "Tehen":
+
+  case "cica":
+
+  case "kutya":
+
+  case "malac":
+
+    alert("Ez az állat a Noé bárkáján megy.")
+    break;
+
+    //A switc tömb vége/az első "break"
+
+  case "dinoszaurusz":
+
+  default:
+    alert("Ez az állat nem fog");
+
+}
