@@ -1,0 +1,18 @@
+var ageOfGyula = 17;
+
+if(ageOfGyula > 17){
+alert("Gyula veztehet!");
+}
+
+else if(ageOfGyula == 17){
+alert("Gyula mér vezethet!");
+}
+
+else if(ageOfGyula == 16){
+alert("Gyula már majdnem vezethet!");
+}
+
+else if(ageOfGyula < 16){
+alert("Gyula Nem vezethet!");
+}
+	
